@@ -1,0 +1,29 @@
+{
+"status": "success",
+"message": "",
+"data": {
+"awardItems": [
+{
+"title": "Acclaimed sculptor unveils new public art at 250 City Road",
+"imageUrl": "/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
+"date": "24th March 2020",
+"description": "Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza."
+},
+{
+"title": "Acclaimed sculptor unveils new public art at 250 City Road",
+"imageUrl": "/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
+"date": "24th March 2020",
+"description": "Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza."
+},
+{
+"title": "Acclaimed sculptor unveils new public art at 250 City Road",
+"imageUrl": "/sitecore/shell/-/media/Feature/NewsAndInsights/News/public-art-at-250-City-Road.ashx",
+"date": "24th March 2020",
+"description": "Art and architecture came together at 250 City Road in March, at the unveiling of the first in a series of sculptures to stand in the new public plaza."
+}
+],
+"totalNoOfItems": 3,
+"selectedPage": 0,
+"noOfItemsPerPage": 9
+}
+}
